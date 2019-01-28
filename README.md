@@ -1,4 +1,4 @@
-#Shopping Cart in React
+# Shopping Cart in React
 
 Implementing React with Redux and React-router to create a shopping cart.
 
